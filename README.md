@@ -1,4 +1,4 @@
-# Hi, I'm Maddie!
+## Hi, I'm Maddie!
 
 I'm into <img src="assets/rust.svg" style="height: 1em;" /> Rust, <img src="assets/nix.svg"
 style="height: 1em;" /> Nix, and <img src="assets/swift.svg" style="height: 1em;" /> Swift. I've
